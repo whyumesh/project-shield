@@ -1,0 +1,6 @@
+"HCP Selection Request" in final summary is the unique count of "HCP Selection Request ID" in Database file, 
+"PSA Created" in final summary is the unique count of 1 in "Is PSA Created" in Database file,
+"PSA Created %" is percentage between "HCP Selection Request ID" & "Is PSA Created".
+" PSA Activity Executed" is the unique count of 1 in "PSA Activity Executed" in Database file.
+" PSA Executed %" is percentage between "HCP Selection Request ID" & "PSA Activity Executed".
+Note : take the unique count of "HCP Selection Request ID" where there is 1 in "PSA Activity Executed" & "PSA Created".
